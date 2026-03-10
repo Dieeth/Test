@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fn2fhN2K+4Q=",
+  "dgSpecHash": "i+MeH+mtKiQ=",
   "success": true,
-  "projectFilePath": "C:\\Users\\СтудентШС\\Desktop\\test\\Test\\efn\\efn.csproj",
+  "projectFilePath": "C:\\Users\\СтудентШС\\Desktop\\test\\Test\\efn.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\СтудентШС\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.22.1\\microsoft.visualstudio.azure.containers.tools.targets.1.22.1.nupkg.sha512"
   ],
