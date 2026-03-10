@@ -105,11 +105,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\СтудентШС\\Desktop\\test\\Test\\efn\\efn.csproj",
+      "projectUniqueName": "C:\\Users\\СтудентШС\\Desktop\\test\\Test\\efn.csproj",
       "projectName": "efn",
-      "projectPath": "C:\\Users\\СтудентШС\\Desktop\\test\\Test\\efn\\efn.csproj",
+      "projectPath": "C:\\Users\\СтудентШС\\Desktop\\test\\Test\\efn.csproj",
       "packagesPath": "C:\\Users\\СтудентШС\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\СтудентШС\\Desktop\\test\\Test\\efn\\obj\\",
+      "outputPath": "C:\\Users\\СтудентШС\\Desktop\\test\\Test\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
