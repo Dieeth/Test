@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "efn": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
